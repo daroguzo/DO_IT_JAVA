@@ -6,6 +6,7 @@ import java.util.Scanner;
  * 배열과 리스트
  * 평균 구하기
  * 브론즈1
+ * 252ms
  */
 public class Q1546 {
     public static void main(String[] args) {

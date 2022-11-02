@@ -1,4 +1,4 @@
-package algorithm.day28;
+package algorithm.day25.day28;
 
 /**
  * 동적 계획법

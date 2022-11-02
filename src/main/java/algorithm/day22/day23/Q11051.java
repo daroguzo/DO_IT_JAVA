@@ -1,4 +1,4 @@
-package algorithm.day23;
+package algorithm.day22.day23;
 
 /**
  * 조합

@@ -4,7 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5adf346d-d13a-4a3d-984e-1ce2cc02f257" name="Changes" comment="" />
+    <list default="true" id="5adf346d-d13a-4a3d-984e-1ce2cc02f257" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q10986.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q10986.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11659.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11659.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11660.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11660.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q11720.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q1546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day1/Q1546.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day10/Q1541.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day10/Q1541.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day10/Q1931.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day10/Q1931.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q11689.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q11689.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1456.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1456.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1747.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1747.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day11/Q1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1033.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1033.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1850.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1850.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1934.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q1934.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q21568.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day12/Q21568.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q1325.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q1325.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q1707.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q1707.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q18352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q18352.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q2251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day13/Q2251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1043.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1043.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1717.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1976.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day14/Q1976.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q1516.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q1516.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q1948.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q1948.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q2252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day15/Q2252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1854.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1854.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1916.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day16/Q1916.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11403.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11403.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11657.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q11657.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q1219.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q1219.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q1389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day17/Q1389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q1197.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q1414.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q1414.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q17472.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day18/Q17472.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q1068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q1068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q11725.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q11725.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q14425.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day19/Q14425.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q11003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q11003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q1253.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q12891.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q12891.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q1940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q1940.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day2/Q2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day20/Q1991.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day20/Q1991.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1722.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1722.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1947.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day20/day24/Q1947.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q10868.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q10868.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q11505.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q11505.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q2042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day21/Q2042.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q11437.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q11437.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q11438.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q11438.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q13251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/Q13251.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q1010.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q1010.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q11050.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q11050.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q11051.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q11051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day22/day23/Q2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q11726.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q11726.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q14501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q14501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q1463.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q2193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/Q2193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q11049.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q11049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q14003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q14003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q2098.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day25/day28/Q2098.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q10844.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q13398.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q13398.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q9252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day26/Q9252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q1328.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q1328.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q1915.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q1915.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q2342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day27/Q2342.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q11758.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q11758.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q17387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q17387.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q2162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q2162.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q2166.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day29/Q2166.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q11286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q11286.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q17298.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q17298.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q1874.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q1874.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q2164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day3/Q2164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q1377.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q1377.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q1427.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q1427.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q2750.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day4/Q2750.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day5/Q11004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day5/Q11004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day5/Q11399.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day5/Q11399.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q10989.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q10989.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q1517.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q1517.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q2751.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day6/Q2751.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q1167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q1167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q11724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q11724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q13023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q13023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q2023.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q2023.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q2178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day7/Q2178.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q1300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q1920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q2343.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day8/Q2343.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q11047.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q1744.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/day9/Q1744.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +117,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gy5YXtqUG4dfSKgnaQxNm75Tj3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,9 +138,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/MSI/IdeaProjects/DO_IT_JAVA/src/main/java/algorithm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\IdeaProjects\DO_IT_JAVA\src\main\java\algorithm" />
+      <recent name="C:\Users\MSI\IdeaProjects\DO_IT_JAVA\src\main\java\algorithm\day17" />
+      <recent name="C:\Users\MSI\IdeaProjects\DO_IT_JAVA\src\main\java\algorithm\day1" />
+      <recent name="C:\Users\MSI\IdeaProjects\DO_IT_JAVA\src\main\java\algorithm\day11" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,9 +162,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667348032321</updated>
-      <workItem from="1667348035419" duration="1000" />
+      <workItem from="1667348035419" duration="5800000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
